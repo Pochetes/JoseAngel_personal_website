@@ -1,0 +1,10 @@
+first name: Jose Angel
+last name: Espinosa Bautista
+
+nationality: from Mexico
+
+fav colors: black, blue
+
+languages: spanish (native), english (main)
+
+hobbies: anime, ultimate frisbee, basketball, dancing cumbia and salsa, origami
