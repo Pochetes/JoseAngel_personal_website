@@ -1,3 +1,7 @@
+html * {
+    font-family: 'Poppins', sans-serif;
+}
+
 .body {
     margin: auto;
 }
@@ -44,6 +48,16 @@
     align-items: center;
 }
 
+.hero-txt-span {
+    background-color: #f3ec78;
+    background-image: linear-gradient(to right, #00b4db, #0083b0);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+}
+
 .pfp-image img {
     border-style: solid;
     border-width: thick;
@@ -84,6 +98,7 @@
     padding: 3px 20px 3px;
     background-color: lightblue;
     transition: 0.3s;
+    cursor: pointer;
 }
 
 .hobby:hover {
@@ -160,6 +175,7 @@
     border-radius: 5px;
     margin-left: auto;
     transition: 0.3s;
+    cursor: pointer;
 }
 
 .project-data-type:hover {
